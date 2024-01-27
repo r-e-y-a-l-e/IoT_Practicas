@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IoT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="dispositivos">
+        <item>Xiaomi Poco F3</item>
+        <item>Galaxy S23 Ultra</item>
+        <item>Redmi Note 13 Pro</item>
+        <item>Iphone 15 Pro Max</item>
+        <item>Galaxy S21</item>
+    </string-array>
+</resources>
